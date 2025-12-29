@@ -23,6 +23,7 @@ The project was built to practice core Python programming concepts alongside pra
 ├── README.md
 ├── .gitignore
 └── .env                  # API key (not committed)
+```
 
 ## Requirements
 
